@@ -24,7 +24,7 @@ Based on Angular 13 with the module angular2-smart-table
 
 (ng2-smart-table may have problems on dependence using Angular 13)
 
-Codes are in the folder 'Contact'
+Codes are in the folder 'Contact' (https://github.com/EX-Zhang/Contact)
 
 ## Database
 
